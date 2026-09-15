@@ -8,15 +8,13 @@
 [![Author](https://img.shields.io/badge/Author-Shivay%20Singh%20(12)-2ed573)](https://github.com/singhamit30564-ux)
 [![Theme](https://img.shields.io/badge/Theme-Dark%20%2B%20Gold-0a0e17)](https://github.com)
 
-> *"Sense-7: Validated by real rain since 2026"* 🌧️
+> *"Sense-7"* 🌧️
 
 ---
 
 ## 🌟 About Sense-7
 
 A **rain prediction app** built with Streamlit and Python. Uses live weather data + a custom weighted algorithm to forecast rain probability for any location.
-
-**The Story:** I once predicted rain using my "7th Sense" — and it actually rained! Now that sense is coded into an app. 🧠⛈️
 
 **Vision:** Free weather intelligence for every village farmer and student in India. 🇮🇳
 
