@@ -81,5 +81,48 @@ Sense-7/
 │   └── weather_api.py  # Open-Meteo API wrapper
 ├── .streamlit/
 │   └── config.toml     # Dark theme configuration
-└── NOTICE              # Apache-2.0 attribution file
+└── NOTICE              
+# 🗺️ Roadmap
+ 
+Core prediction engine (v0.1)
+ 
+Dark + gold theme (v0.1)
+ 
+7-day forecast view
+ 
+Rain alert notifications
+ 
+Hindi language support
+ 
+Farmer-specific crop advice
+ 
+Offline mode with cached data
+# 🧑‍💻 Author
+Shivay Singh (12 years old)
+ 
+🐍 Python developer
+ 
+🧬 Builder of Titan Bioinformatics Suite (50+ tools)
+ 
+🚀 Creator of Titan Codyssey (educational coding platform)
+📍 India
+GitHub: singhamit30564-ux
 
+# 📜 License
+Apache License 2.0 — Free for personal AND commercial use.
+ 
+✅ Use it anywhere
+ 
+✅ Modify it freely
+ 
+✅ Distribute it
+ 
+✅ Patent protection included
+ 
+⚠️ Attribution required (keep LICENSE + NOTICE files)
+See LICENSE for full terms.
+# 🙏 Acknowledgments
+ 
+Open-Meteo — Free weather API, no key required
+ 
+Streamlit — Fastest way to ship Python apps
