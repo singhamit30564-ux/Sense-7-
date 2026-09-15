@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 # Run locally
 streamlit run app.py
-
+'''
 # 🧮 Prediction Logic
 Rain Probability =  (Humidity × 0.35)
  
